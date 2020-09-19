@@ -10,6 +10,7 @@ The competition will run in two stages: in the first stage (pre-selection), the 
 Problem Description
 
 The data that will be used for the competition will be shared with all the registered teams on August 1st. A similar dataset can already be found online on open-traffic.epfl.ch (pNEUMA sample dataset). The UAS4T Competition data will include trajectories that were monitored by one (1) single drone covering a wide area over the central district of Athens, Greece. Both major and minor roads, bus stops and signalized intersections are included in the study area. The dataset includes trajectories from cars, taxis, powered two-wheelers, buses, medium and heavy vehicles. Participants are asked to develop a scheme to estimate the maximum length of the queues per lane that are formed for different approaches of an intersection and roads (to be specified) during the monitoring duration. Thus, for every specified area, the teams will have to report:
+
 i. Maximum length of queue,
 ii. Lane the maximum length occurred,
 iii. Coordinates of the start and end of the maximum queue,
