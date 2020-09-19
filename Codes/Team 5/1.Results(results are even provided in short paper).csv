@@ -1,0 +1,10 @@
+﻿Parameter,Section 1 (Red),Section 2 (Yellow),Section 3 (Green)
+"Maximum length of queue,",200m,68 m,87 m
+Lane the maximum length occurred,Centre lane,It is somewhat mixed ,Left lane
+"Coordinates of the start and end of the maximum queue (latitude, longitude)","Start - 37.991613, 23.732583","Start - 37.991571, 23.7321","Start - 37.991921, 23.73134"
+,"End - 37.991259, 23.734804","End- 37.991403, 23.731386","End - 37.992688, 23.73151"
+"Timestamp of the maximum queue occurrence,",Start - 400.4 s,Start- 663.2 s,Start - 290 s
+,End- 492.4 s,End - 702.8 s,End - 362.4 s
+"whether, when and where a spillback is formed (when applicable).",Time - 446.8 s,Time - 688.8 s,Time - 341.6 
+,,,
+"team members: Narayana Raju, Shubham Patil, Shriniwas Arkatkar",,,

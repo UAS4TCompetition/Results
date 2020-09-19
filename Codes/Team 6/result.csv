@@ -1,0 +1,4 @@
+,Area,Maximum length of queue,Lane the maximum length occurred,start lat,start lon,end lat,end lon,Timestamp of the maximum queue occurrence,"whether, when and where a spillback is formed"
+0,top 28is Oktovrious,13,far left 0,37.991971,23.731369,37.992793,23.731535,340.4,False
+1,bot 28is Oktovrious,10,mid 1,37.991401,23.731407,37.991569,23.731821,507.32,False
+2,Leof. Alexandras,23,left 1,37.99139,23.733775,37.991587,23.732528,806.44,False

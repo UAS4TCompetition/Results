@@ -1,0 +1,70 @@
+Q1-Q4:When the spillback did not happened,,,,
+Q1:Maximum length of queue,,,,
+seg,Maximum length of queue(m),,,
+df_green,90.02,,,
+df_yellow,61.29,,,
+df_r3,104.43,,,
+df_r1,83.95,,,
+df_r2,149.58,,,
+,,,,
+Q2:Lane the maximum length occurred,,,,
+seg,Lane the maximum length occurred,,,
+df_green,4,,,
+df_yellow,2,,,
+df_r3,2,,,
+df_r1,3,,,
+df_r2,1,,,
+,,,,
+Q3:Coordinate of the start and end of the queue,,,,
+seg,"start coordinate (lat,lon)","send coordinate (lat,lon)",,
+df_green,"(37.991983000000005, 23.731267000000003)","(37.992784, 23.731410999999998)",,
+df_yellow,"(37.991566, 23.732094)","(37.991147999999995, 23.731225)",,
+df_r3,"(37.99135, 23.734242000000002)","(37.991166, 23.735387)",,
+df_r1,"(37.991769, 23.731594)","(37.991648, 23.732532)",,
+df_r2,"(37.991602, 23.73246)","(37.991324, 23.734194)",,
+,,,,
+Q4:Timestamp of maximum queue occurrence,,,,
+seg,Timestamp of maximum queue occurrence(s),,,
+df_green,256.4,,,
+df_yellow,645.44,,,
+df_r3,726.56,,,
+df_r1,764.24,,,
+df_r2,117.12,,,
+,,,,
+,,,,
+Q1-Q4:When the spillback happened,,,,
+Q1:Maximum length of queue,Maximum length of queue(m),,,
+df_r1,121.76,,,
+df_r2,232.25,,,
+,,,,
+Q2:Lane the maximum length occurred,,,,
+seg,Lane the maximum length occurred,,,
+df_r1,1,,,
+df_r2,2,,,
+,,,,
+Q3:Coordinate of the start and end of the queue,,,,
+seg,"start coordinate (lat,lon)","end coordinate (lat,lon)",,
+df_r1,"(37.99174, 23.731572)","(37.991524, 23.732938)",,
+df_r2,"(37.991586, 23.732551)","(37.991209000000005, 23.735126)",,
+,,,,
+Q4:Timestamp of maximum queue occurrence,,,,
+seg,Timestamp of maximum queue occurrence(s),,,
+df_r1,213.04,,,
+df_r2,574.08,,,
+,,,,
+,,,,
+"Q5:whether, when and where a spillback is formed",,,,
+seg,whether a spillback is formed,Time of a spillback is formed(s),where a spillback is formed,The coordinates of the location where the spillback is formed
+df_r1,Yes,117.64,stop line in df_r2,"(37.991591, 23.732516)"
+df_r1,Yes,202.64,stop line in df_r2,"(37.991597, 23.732489)"
+df_r1,Yes,288.6,stop line in df_r2,"(37.991596, 23.732477)"
+df_r1,Yes,482.2,stop line in df_r2,"(37.991625, 23.732489)"
+df_r1,Yes,563.04,stop line in df_r2,"(37.991591, 23.732516)"
+df_r2,Yes,297.28,stop line in df_r3,"(37.99138, 23.734226)"
+df_r2,Yes,383.48,stop line in df_r3,"(37.991321, 23.734192999999998)"
+df_r2,Yes,485.56,stop line in df_r3,"(37.991351, 23.734217)"
+df_r2,Yes,576.16,stop line in df_r3,"(37.991319, 23.734209)"
+df_r2,Yes,653.32,stop line in df_r3,"(37.99132, 23.734209)"
+df_r2,Yes,758.12,stop line in df_r3,"(37.991322, 23.734207)"
+df_green,No,None,None,None
+df_yellow,No,None,None,None
